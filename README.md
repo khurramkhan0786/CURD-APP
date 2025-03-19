@@ -7,18 +7,18 @@
 # Connect to a backend API built with Node.js, Express.js, and MongoDB
 
 ## Features
- Authentication (Sign up/Login)
-CRUD Operations for Posts
-Responsive UI
+#Authentication (Sign up/Login)
+#CRUD Operations for Posts
+#Responsive UI
 
  ## Technologies Used
- Backend: Node.js, Express.js
- Frontend: React.js
- Database: MongoDB
+ #Backend: Node.js, Express.js
+ #Frontend: React.js
+ #Database: MongoDB
 
 
 ## Setup Instructions
 ### Prerequisites
- Node.js installed
-MongoDB running locally
-start with: npm run dev  
+#Node.js installed
+#MongoDB running locally
+#start with: npm run dev  
